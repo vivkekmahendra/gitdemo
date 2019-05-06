@@ -5,5 +5,3 @@ kitkat
 =======
 idea23
 >>>>>>> Stashed changes
-welcome
-revert chnages
